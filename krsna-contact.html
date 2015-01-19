@@ -12,43 +12,6 @@
 
 <body>
 
-<div id="fb-root"></div>
-<script>
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=283410355087690";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
-  window.fbAsyncInit = function() {
-          FB.init({
-            appId      : '283410355087690',
-            status     : true, 
-            cookie     : true,
-            xfbml      : true,
-            oauth      : true,
-          });
-
-          FB.api('/me', function(user) {
-            if (user) {
-              var image = document.getElementById('image');
-              image.src = 'https://graph.facebook.com/' + user.id + '/picture';
-              var name = document.getElementById('name');
-              name.innerHTML = user.name
-            }
-          });
-        };
-
-        (function(d){
-           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-           js = d.createElement('script'); js.id = id; js.async = true;
-           js.src = "//connect.facebook.net/en_US/all.js";
-           d.getElementsByTagName('head')[0].appendChild(js);
-         }(document));
-</script>
-
 <div id="container">
 
 <div id="header">
@@ -77,16 +40,12 @@
 
 <div id="content">
 
-
-<fb:like href="http://http://srikrishnamandir.org.in/" send="true" width="600" show_faces="true"></fb:like>
-<fb:facepile href="http://http://srikrishnamandir.org.in/" size="large" max_rows="1" width="600"></fb:facepile>
-
  <div content="post">
   <h2>Contact Us</h2>
 
 <h3>Sri Krishna Mandir</strong></h3>
 <p>
-<h4>srikrishnamandir.org.in</h4>
+<h4>srikrishnamandir.github.io</h4>
 <h4>skm.pondy@gmail.com</h4>
 
 <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.in/maps?q=sri+krishna+mandir+pondicherry&amp;oe=utf-8&amp;client=firefox-a&amp;ie=UTF8&amp;hq=sri+krishna+mandir&amp;hnear=Puducherry,+Pondicherry&amp;t=m&amp;ll=11.943609,79.813957&amp;spn=0.040307,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.co.in/maps?q=sri+krishna+mandir+pondicherry&amp;oe=utf-8&amp;client=firefox-a&amp;ie=UTF8&amp;hq=sri+krishna+mandir&amp;hnear=Puducherry,+Pondicherry&amp;t=m&amp;ll=11.943609,79.813957&amp;spn=0.040307,0.054932&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
@@ -114,13 +73,14 @@
   BORDER="0">
 <tr>
 <td>
-   <b> Registered Office: </b> <br>
-   146, First Floor, Lenin St, <br>
-   Kosapalayam, <br>
+   <b> Trust Office: </b> <br>
+   No. 2 Mariamman Koil St, <br>
+   Kottupalayam, <br>
+   Lawspet, <br>
    Puducherry - 605010, <br>
    India <br>
    <br>
-   Phone: +91 413 2242069, 8056513859
+   Phone: +91 8925440108
 </td>
 <td>
 </td>
@@ -133,7 +93,7 @@
 
 </div>
 <div id="footer">
- Copyright &copy; For All Time. Lord Krsna. All Universal Rights Reserved to Him. Period. krsna at radiensoft dot com
+ Copyright &copy; Sri Krishna Mandir Trust, Pondicherry. All Rights Reserved.
 </div>
 </body>
 </html>
