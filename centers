@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in amalapuram bengaluru chennai puducherry tirupati vrindavan
+do
+	vi $i.html
+done
