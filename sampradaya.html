@@ -14,41 +14,6 @@
 <body>
 
 <div id="fb-root"></div>
-<script>
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=283410355087690";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
-  window.fbAsyncInit = function() {
-          FB.init({
-            appId      : '283410355087690',
-            status     : true, 
-            cookie     : true,
-            xfbml      : true,
-            oauth      : true,
-          });
-
-          FB.api('/me', function(user) {
-            if (user) {
-              var image = document.getElementById('image');
-              image.src = 'https://graph.facebook.com/' + user.id + '/picture';
-              var name = document.getElementById('name');
-              name.innerHTML = user.name
-            }
-          });
-        };
-
-        (function(d){
-           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-           js = d.createElement('script'); js.id = id; js.async = true;
-           js.src = "//connect.facebook.net/en_US/all.js";
-           d.getElementsByTagName('head')[0].appendChild(js);
-         }(document));
-</script>
 
 <div id="container">
 
@@ -67,10 +32,21 @@
 	
 <div id="nav">
   <ul>
-    <li><a href="http://srikrishnamandir.github.io/philosophy.html">Philosophy</a></li>
+    <li>Philosophy &gt;</li>
     <li><a href="http://srikrishnamandir.github.io/lord-krishna.html">Lord Krishna</a></li>
     <li><a href="http://srikrishnamandir.github.io/lord-caitanya.html">Lord Caitanya</a></li>
     <li><a href="http://srikrishnamandir.github.io/sampradaya.html">Sampradaya</a></li>
+    <li><a href="http://srikrishnamandir.github.io/srilaprabhupada.html">Acarya</a></li>
+  </ul>
+</div>
+	
+<div id="nav">
+  <ul>
+    <li>Philosophy &gt;</li>
+    <li><a href="http://srikrishnamandir.github.io/brahma-madhva-gaudiya-sampradya">Brahma-madhva-gaudiya Sampradaya</a>|</li>
+    <li><a href="http://srikrishnamandir.github.io/sampradaya-synopsys.html">Synopsys</a>|</li>
+    <li><a href="http://srikrishnamandir.github.io/six-gosvamis.html">Six Gosvamis</a>|</li>
+    <li><a href="http://srikrishnamandir.github.io/past-acaryas.html">Past Acaryas</a>|</li>
     <li><a href="http://srikrishnamandir.github.io/srilaprabhupada.html">Acarya</a></li>
   </ul>
 </div>
