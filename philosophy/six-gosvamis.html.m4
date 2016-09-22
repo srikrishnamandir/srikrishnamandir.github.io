@@ -39,39 +39,24 @@ include(`philosophy/lnav-sampradaya.html.m4')
 <p style="text-align:center;width:100%;float:left;"><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_Rupa1.png" alt="Parampara_Rupa" /></p>
 <p style="text-align:center;width:100%;float:left;">Srila Rupa Goswami appeared in 1489 in Karnataka, South India. He was the younger brother of Srila Sanatana Goswami. Forced by various circumstances, Srila Rupa Goswami.<br /><a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-rupa-goswami/">Read More</a>
 <h4>Srila Gopala Bhatta Goswami</h4>
-<p style="text-align:center;width:100%;float:left;"><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_GopalaBhatta1.png" alt="" /></p>
+<p style="text-align:center;width:100%;float:left;">
+<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_GopalaBhatta1.png" alt="" /></p>
 <p style="text-align:center;width:100%;float:left;">In the year 1510, while Chaitanya Mahaprabhu was on tour of South India, the family of Venkata Bhatta had great fortune of hosting the Lord during the 4 months of the rainy season.<br /><a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-gopala-bhatta-goswami/">Read More</a></p>
 
 <h4>Srila Raghunatha Das Goswami</h4>
-<p><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_RaghunathaDas1.png" alt="" /></p>
+<p style="text-align:center;width:100%;float:left;">
+<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_RaghunathaDas1.png" alt="" /></p>
 <p style="text-align:center;width:100%;float:left;">Srila Raghunatha Dasa Goswami is an eternally liberated associate of Lord Krishna who appeared to join the Lord when He appeared five hundred years ago as Sri Chaitanya Mahaprabhu.<br /><a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-raghunatha-das-goswami/">Read More</a></p>
 
 <h4>Srila Raghunatha Bhatta Goswami</h4>
+<p style="text-align:center;width:100%;float:left;">
 <p><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_RaghunathaBhatta1.png" alt="" /></p>
 <p>Sri Raghunatha Bhatta Goswami was born in 1505 in Eastern Bengal . His father, Sri Tapan Mishra, was a great devotee of Sri Chaitanya Mahaprabhu. Sri Tapan Mishra met Sri Chaitanya. <br /><a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-raghunatha-bhatta-goswami/">Read More</a></p>
 
 <h4>Srila Jiva Goswami</h4>
-<p><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_Jiva1.png" alt="" /></p>
+<p style="text-align:center;width:100%;float:left;">
+<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_Jiva1.png" alt="" /></p>
 <p>Srila Jiva Goswami was the son of Sri Vallabha and nephew of Sri Sanatana, Sri Rupa, all of whom were employed in the service of the Badsha Hussein Shah. Having been rewarded richly by the Badsha.<br /><a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-jiva-goswami/">Read More</a></p>
-
-<h3>Our Past Acharyas</h3>
-<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_JagannathaDas.png" alt="" /><br />
-<h4>Srila Jagannatha Dasa Babaji Maharaja</h4>
-<p>Srila Jagannatha Dasa Babaji Maharaja, a prominent spiritual master coming in the line from Sri Chaitanya Mahaprabhu, was the disciple of Srila Vishwanatha Cakravarti Thakura.<br />
-<a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-jagannatha-dasa-babaji-maharaja/">Read More</a><br />
-Read More</a><br />
-<hr />
-<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_GauraKishoraDas.png" alt="" /><br />
-<h4>Srila Gaurakishora Dasa Babaji Maharaja</h4>
-<p>Srila Gaurakishora Dasa Babaji was born in 1838. He spent almost thirty years as a householder looking after his wife and family. After his wife died, he gave up his business.<br />
-<a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-gaurakishora-dasa-babaji-maharaja/">Read More</a><br />
-<h4>Srila Bhaktisiddhanta Sarasvati Thakur</h4>
-<p>Srila Bhaktisiddhanta Sarasvati Thakura Prabhupada was born in 1873 at Jagannatha Puri. His father, Kedar Dutta Bhaktivinoda Thakura, was magistrate of the city.<br />
-<a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-bhaktisiddhanta-sarasvati-thakura/">Read More</a></p>
-
-<h3>The Current Acharya</h3>
-<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_Prabhupada.png" alt="" />
-<p> His Divine Grace A. C. Bhaktivedanta Swami Srila Prabhupada<br />Our respectful obeisances are unto you, O spiritual master, servant of Srila Bhaktisiddhanta Sarasvati Thakura. You are kindly preaching the message of Lord Caitanya and delivering the Western countries, which are filled with impersonalism and voidism.<br /><a href="http://srikrishnamandir.org/philosophy/srila-prabhupada/">Read More</a></p>
 
 </div>
 
