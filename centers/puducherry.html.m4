@@ -91,8 +91,4 @@
 </div>
 
 </div>
-<div id="footer">
- Copyright &copy; International Sri Krishna Mandir, India. All Rights Reserved.
-</div>
-</body>
-</html>
+include(`common/footer.html.m4')

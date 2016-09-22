@@ -4,7 +4,7 @@
 <head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<title>International Sri Krishna Mandir, Puducherry - Contact</title>
+<title>International Sri Krishna Mandir, Vrindavan - Contact</title>
 
 <link rel="stylesheet" href="http://srikrishnamandir.github.io/wp-content/themes/librio/style.css" type="text/css" media="screen" />
 <!--[if IE]><link rel="stylesheet" type="text/css" href="http://srikrishnamandir.github.io/wp-content/themes/librio/ie.css" media="screen" /><![endif]-->
@@ -15,7 +15,7 @@
 <div id="container">
 
 <div id="header">
-<h1>International Sri Krishna Mandir, Puducherry<span>Contact</span></h1>
+<h1>International Sri Krishna Mandir, Vrindavan<span>Contact</span></h1>
 
 
 </div>
@@ -43,10 +43,12 @@
  <div content="post">
   <h2>Contact Us</h2>
 
-<h3>International Sri Krishna Mandir, Puducherry</strong></h3>
+<h3>International Sri Krishna Mandir, Vrindavan</strong></h3>
 <p>
-<h4>website: <a href="http://srikrishnamandirpondy.org">srikrishnamandirpondy.org</a></h4>
-<h4>email: puducherry at iskm in </h4>
+<h4>website: iskm.in/vrindavan</h4>
+<h4>email: vrindavan at srikrishnamandir dot in</h4>
+
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.in/maps?q=sri+krishna+mandir+pondicherry&amp;oe=utf-8&amp;client=firefox-a&amp;ie=UTF8&amp;hq=sri+krishna+mandir&amp;hnear=Puducherry,+Pondicherry&amp;t=m&amp;ll=11.943609,79.813957&amp;spn=0.040307,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.co.in/maps?q=sri+krishna+mandir+pondicherry&amp;oe=utf-8&amp;client=firefox-a&amp;ie=UTF8&amp;hq=sri+krishna+mandir&amp;hnear=Puducherry,+Pondicherry&amp;t=m&amp;ll=11.943609,79.813957&amp;spn=0.040307,0.054932&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 <p>
 <TABLE 
@@ -72,12 +74,11 @@
 <tr>
 <td>
    <b> Address: </b> <br>
-   International Sri Krishna Mandir, Puducherry <br>
-   2, Mariamman Koil St, <br>
-   Opp. Rajaji Nagar Bus Stop, <br>
-   Kottupalayam, <br>
-   Lawspet, <br> 
-   Puducherry - 560008 <br>
+   5A, First Floor, Bhaktivedanta Complex, <br>
+   Parikrama Marg, <br>
+   Raman Reti, <br>
+   Vrindavan - 281121 <br>
+   Uttar Pradesh, <br>
    India <br>
    <br>
 </td>
@@ -91,9 +92,4 @@
 </div>
 
 </div>
-<div id="footer">
- Copyright &copy; 2012-2016. srikrishnamandir.in. All Rights Reserved.
-</div>
-</body>
-</html>
-
+include(`common/footer.html.m4')
