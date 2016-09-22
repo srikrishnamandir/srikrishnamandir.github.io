@@ -49,7 +49,7 @@ include(`philosophy/lnav-sampradaya.html.m4')
 
 <h4>Srila Raghunatha Bhatta Goswami</h4>
 <p style="text-align:center;width:100%;float:left;">
-<p><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_RaghunathaBhatta1.png" alt="" /></p>
+<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_RaghunathaBhatta1.png" alt="" /></p>
 <p>Sri Raghunatha Bhatta Goswami was born in 1505 in Eastern Bengal . His father, Sri Tapan Mishra, was a great devotee of Sri Chaitanya Mahaprabhu. Sri Tapan Mishra met Sri Chaitanya. <br /><a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-raghunatha-bhatta-goswami/">Learn more ...</a></p>
 
 <h4>Srila Jiva Goswami</h4>
