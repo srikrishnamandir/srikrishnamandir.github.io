@@ -4,7 +4,7 @@
 <head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<title>International Sri Krishna Mandir, India - Contact</title>
+<title>International Sri Krishna Mandir, India - Centers</title>
 
 <link rel="stylesheet" href="http://srikrishnamandir.github.io/wp-content/themes/librio/style.css" type="text/css" media="screen" />
 <!--[if IE]><link rel="stylesheet" type="text/css" href="http://srikrishnamandir.github.io/wp-content/themes/librio/ie.css" media="screen" /><![endif]-->
@@ -15,31 +15,13 @@
 <div id="container">
 
 <div id="header">
-<h1>International Sri Krishna Mandir, India <span>Contact</span></h1>
+<h1>International Sri Krishna Mandir, India <span>Centers</span></h1>
 
 
 </div>
 
-<div id="nav">
-  <ul>
-    <li><a href="http://srikrishnamandir.github.io/index.html">Home</a></li>
-    <li><a href="http://srikrishnamandir.github.io/philosophy.html">Philosophy</a></li>
-    <li><a href="http://srikrishnamandir.github.io/centers.html">Centers</a></li>
-  </ul>
-</div>
-	
-<div id="nav">
-  <ul>
-    <li>Centers &gt;</li>
-    <li><a href="http://iskm.in/amalapuram">Amalapuram</a></li>
-    <li><a href="http://iskm.in/bengaluru" >Bengaluru</a></li>
-    <li><a href="http://iskm.in/chennai"   >Chennai</a></li>
-    <li><a href="http://iskm.in/puducherry">Puducherry</a></li>
-    <li><a href="http://iskm.in/tirupati"  >Tirupati</a></li>
-    <li><a href="http://iskm.in/vrindavan" >Vrindavan</a></li>
-  </ul>
-</div>
-	
+include(`common/nav.html.m4')	
+include(`contact/lnav.html.m4')	
 <div id="wrapper">	
 
 <div class="fb-login-button" data-show-faces="true" data-width="200" data-max-rows="3"></div>	
@@ -48,7 +30,7 @@
 <div id="content">
 
  <div content="post">
-  <h2>Contact Us</h2>
+  <h2>Centers</h2>
 
 <h3>Andhra Pradesh</strong></h3>
 <p>
@@ -67,9 +49,4 @@
 </div>
 
 </div>
-<div id="footer">
- Copyright &copy; 2012-2016. srikrishnamandir.in. All Rights Reserved.
-</div>
-</body>
-</html>
-
+include(`common/footer.html.m4')
