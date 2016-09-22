@@ -21,6 +21,7 @@
 </div>
 
 include(`common/nav.html.m4')	
+include(`contact/lnav.html.m4')	
 <div id="wrapper">	
 
 <div class="fb-login-button" data-show-faces="true" data-width="200" data-max-rows="3"></div>	
