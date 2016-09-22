@@ -4,7 +4,7 @@
 <head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<title>International Sri Krishna Mandir, Bengaluru - Contact</title>
+<title>International Sri Krishna Mandir, Chennai - Contact</title>
 
 <link rel="stylesheet" href="http://srikrishnamandir.github.io/wp-content/themes/librio/style.css" type="text/css" media="screen" />
 <!--[if IE]><link rel="stylesheet" type="text/css" href="http://srikrishnamandir.github.io/wp-content/themes/librio/ie.css" media="screen" /><![endif]-->
@@ -15,7 +15,7 @@
 <div id="container">
 
 <div id="header">
-<h1>International Sri Krishna Mandir, Bengaluru<span>Contact</span></h1>
+<h1>International Sri Krishna Mandir, Chennai<span>Contact</span></h1>
 
 
 </div>
@@ -43,10 +43,10 @@
  <div content="post">
   <h2>Contact Us</h2>
 
-<h3>International Sri Krishna Mandir, Bengaluru</strong></h3>
+<h3>International Sri Krishna Mandir, Chennai</strong></h3>
 <p>
-<h4>website: iskm.in/bengaluru</h4>
-<h4>email: bengaluru at srikrishnamandir dot in</h4>
+<h4>website: iskm.in/chennai</h4>
+<h4>email: chennai at srikrishnamandir dot in</h4>
 
 <p>
 <TABLE 
@@ -72,11 +72,10 @@
 <tr>
 <td>
    <b> Address: </b> <br>
-   International Sri Krishna Mandir, Bengaluru <br>
-   Avalahalli Village, <br>
-   Doddaballapura Main Rd, <br>
-   Yelahanka, <br>
-   Bengaluru - 560094, <br>
+   International Sri Krishna Mandir, Chennai <br>
+   38/24, Damodaramurthy Rd, <br>
+   Kilpauk, <br> 
+   Chennai - 600010, <br>
    India <br>
    <br>
 </td>
@@ -91,8 +90,7 @@
 
 </div>
 <div id="footer">
- Copyright &copy; 2012-2016. srikrishnamandir.in. All Rights Reserved.
+ Copyright &copy; International Sri Krishna Mandir, India. All Rights Reserved.
 </div>
 </body>
 </html>
-

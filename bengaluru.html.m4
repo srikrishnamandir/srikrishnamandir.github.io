@@ -91,8 +91,7 @@
 
 </div>
 <div id="footer">
- Copyright &copy; 2012-2016. srikrishnamandir.in. All Rights Reserved.
+ Copyright &copy; International Sri Krishna Mandir, India. All Rights Reserved.
 </div>
 </body>
 </html>
-
