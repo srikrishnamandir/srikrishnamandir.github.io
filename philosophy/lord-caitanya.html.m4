@@ -57,24 +57,8 @@
 
 	</div>
 
-<div id="nav">
-  <ul>
-    <li><a href="http://srikrishnamandir.github.io/index.html">Home</a></li>
-    <li><a href="http://srikrishnamandir.github.io/philosophy.html">Philosophy</a></li>
-    <li><a href="http://srikrishnamandir.github.io/contact.html">Contact</a></li>
-  </ul>
-</div>
-	
-<div id="nav">
-  <ul>
-    <li><a href="http://srikrishnamandir.github.io/philosophy.html">Philosophy</a></li>
-    <li><a href="http://srikrishnamandir.github.io/lord-krishna.html">Lord Krishna</a></li>
-    <li><a href="http://srikrishnamandir.github.io/lord-caitanya.html">Lord Caitanya</a></li>
-    <li><a href="http://srikrishnamandir.github.io/sampradaya.html">Our Sampradaya</a></li>
-    <li><a href="http://srikrishnamandir.github.io/srilaprabhupada.html">Our Acharya</a></li>
-  </ul>
-</div>
-	
+include(`common/nav.html.m4')	
+include(`philosophy/lnav.html.m4')	
 	<div id="wrapper">	
 <body>
 
@@ -125,9 +109,4 @@ You would have understood by now how Krishna possesses all the six opulences in 
 </div>
 
 </div>
-<div id="footer">
- Copyright &copy; 2012-2016. srikrishnamandir.in. All Rights Reserved.
-</div>
-</body>
-</html>
-
+include(`common/footer.html.m4')
