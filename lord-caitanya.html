@@ -14,41 +14,6 @@
 <body>
 
 <div id="fb-root"></div>
-<script>
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=283410355087690";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
-  window.fbAsyncInit = function() {
-          FB.init({
-            appId      : '283410355087690',
-            status     : true, 
-            cookie     : true,
-            xfbml      : true,
-            oauth      : true,
-          });
-
-          FB.api('/me', function(user) {
-            if (user) {
-              var image = document.getElementById('image');
-              image.src = 'https://graph.facebook.com/' + user.id + '/picture';
-              var name = document.getElementById('name');
-              name.innerHTML = user.name
-            }
-          });
-        };
-
-        (function(d){
-           var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
-           js = d.createElement('script'); js.id = id; js.async = true;
-           js.src = "//connect.facebook.net/en_US/all.js";
-           d.getElementsByTagName('head')[0].appendChild(js);
-         }(document));
-</script>
 
 <div id="container">
 
@@ -77,13 +42,17 @@
 	
 	<div id="wrapper">	
 <body>
+
+<div id="content">
+
 <div class="post">
-<h4>Lord Sri Caitanya Mahaprabhu</h4>
+<h2>Lord Sri Caitanya Mahaprabhu</h2>
+
 <p>Sri Caitanya Mahaprabhu is none other than the Supreme Lord Sri Krishna, who appeared in this Kali-yuga to inaugurate the yuga dharma for this age – Sankirtana, the congregational chanting of the Holy Names of the Lord.<br />
 <a href="http://srikrishnamandir.org/philosophy/our-sampradaya/lord-caitanya-mahaprabhu/">Read More</a><br />
 
-
 </div>
+
 </div>
 <div id="footer">
  Copyright &copy; 2012-2016. srikrishnamandir.in. All Rights Reserved.
