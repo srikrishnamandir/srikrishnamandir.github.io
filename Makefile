@@ -20,8 +20,10 @@ chennai:
 vrindavan:
 	m4 centers/vrindavan.html.m4 > vrindavan.html
 
-root: contact donate index media news philosophy trust volunteer 
+root: centers contact donate index media news philosophy trust volunteer 
 
+centers: root/centers.html.m4
+	m4 root/centers.html.m4 > centers.html
 contact: root/contact.html.m4
 	m4 root/contact.html.m4 > contact.html
 donate: root/donate.html.m4
