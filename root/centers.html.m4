@@ -53,6 +53,11 @@ include(`contact/lnav.html.m4')
 </p>
 
 
+<h2>China</h2>
+<p>
+<h4>ISKM Guandong</a></h4>
+</p>
+
 <h2>Malaysia</h2>
 <p>
 <h4><a href="http://iskm.my/kotatinggi"> ISKM Kota Tinggi</a></h4>
@@ -79,6 +84,11 @@ include(`contact/lnav.html.m4')
 <h2>New Zealand</h2>
 <p>
 <h4><a href="http://iskm.nz/nelson"> ISKM Nelson</a></h4>
+</p>
+
+<h2>Russia</h2>
+<p>
+<h4>ISKM Russia</a></h4>
 </p>
 
 </div>
