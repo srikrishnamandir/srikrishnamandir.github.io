@@ -1,14 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
-
-<head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
+@include(`common/header.html.m4')
 <title>International Sri Krishna Mandir, India - Centers</title>
-
-<link rel="stylesheet" href="http://srikrishnamandir.github.io/wp-content/themes/librio/style.css" type="text/css" media="screen" />
-<!--[if IE]><link rel="stylesheet" type="text/css" href="http://srikrishnamandir.github.io/wp-content/themes/librio/ie.css" media="screen" /><![endif]-->
-</head>
 
 <body>
 
@@ -32,26 +23,40 @@ include(`contact/lnav.html.m4')
  <div content="post">
 <h2>India</h2>
 <p>
-Andhra Pradesh<br>
+<b>Andhra Pradesh</b><br>
 <ul>
 <li><a href="http://iskm.in/amalapuram">ISKM Amalapuram</a></li>
 <li><a href="http://iskm.in/tirupati">ISKM Tirupati</a></li>
-Karnataka<br>
-<li>ISKM Bengaluru</li>
-Puducherry<br>
+</ul>
+</p>
+<p>
+<b>Karnataka</b><br>
+<ul>
+<li><a href="http://iskm.in/tirupati">ISKM Bengaluru</a></li>
+</ul>
+</p>
+<p>
+<b>Puducherry</b><br>
+<ul>
 <li><a href="http://iskm.in/puducherry">ISKM Puducherry</a></li>
-<br>Tamil Nadu<br>
-<li>ISKM Chennai</li>
-Uttar Pradesh<br>
-<li>ISKM Vrindavan</li>
+</ul>
+</p>
+<p>
+<b>Tamil Nadu</b><br>
+<ul>
+<li><a href="http://iskm.in/chennai">ISKM Chennai</a></li>
+</ul>
+</p>
+<p>
+<b>Uttar Pradesh</b><br>
+<ul>
+<li><a href="http://iskm.in/vrindavan">ISKM Vrindavan</a></li>
 </ul>
 </p>
 
-
-
 <h2>Bangladesh</h2>
 <p>
-<h4><a href="http://iskm.bd/mymensingh"> ISKM Mymensingh</a></h4>
+<h4>ISKM Bangladesh Mymensingh</h4>
 </p>
 
 
@@ -62,20 +67,20 @@ Uttar Pradesh<br>
 
 <h2>Malaysia</h2>
 <p>
-<h4><a href="http://iskm.my/kotatinggi"> ISKM Kota Tinggi</a></h4>
-<h4><a href="http://iskm.my/klang"     > ISKM Klang</a></h4>
-<h4><a href="http://iskm.my/seramban"  > ISKM Seramban</a></h4>
+<h4><a href="http://facebook.com/skm.mgd">ISKM Malaysia Kota Tinggi</a></h4>
+<h4>ISKM Malaysia Klang</h4>
+<h4>ISKM Malaysia Seramban</h4>
 </p>
 
 <h2>Philippines</h2>
 <p>
-<h4><a href="http://iskm.ph/manila"> ISKM Manila</a></h4>
+<h4><a href="http://facebook.com/skm.phil"> ISKM Philippines Manila</a></h4>
 </div>
 
 <h2>Singapore</h2>
 <p>
-<h4><a href="http://iskm.sg/singapore"> ISKM Singapore</a></h4>
-<h4><a href="http://iskm.sg/tuas"> ISKM Tuas</a></h4>
+<h4><a href="http://srikrishnamandir.org"> ISKM Singapore</a></h4>
+<h4><a href="http://srikrishnamandir.org"> ISKM Singapore Tuas</a></h4>
 </p>
 
 <h2>Australia</h2>
@@ -85,7 +90,7 @@ Uttar Pradesh<br>
 
 <h2>New Zealand</h2>
 <p>
-<h4><a href="http://iskm.nz/nelson"> ISKM Nelson</a></h4>
+<h4><a href="http://harekrishnasociety.co.nz"> ISKM Nelson</a></h4>
 </p>
 
 <h2>Russia</h2>
