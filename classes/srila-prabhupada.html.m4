@@ -1,0 +1,66 @@
+include(`common/header.html.m4')
+<title>International Sri Krishna Mandirs of India</title>
+
+<body>
+
+<div id="fb-root"></div>
+
+<div id="container">
+
+	<div id="header">
+		<h1><a href="http://iskm.in/philosophy">International Sri Krishna Mandir, India</a><span>Philosophy</span></h1>
+
+	</div>
+
+include(`common/nav.html.m4')	
+include(`philosophy/lnav.html.m4')	
+include(`philosophy/lnav-sampradaya.html.m4')	
+	<div id="wrapper">	
+<body>
+<div id="content">
+<div class="post">
+
+<h3>Our Current Acarya</h3>
+
+<h4>Srila Prabhupada</h4>
+<p style="text-align:center;width:100%;float:left;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Swami_Prabhupada.jpg" alt="" />
+</p>
+<p>
+Abhay Charanaravinda Bhaktivedanta Swami Prabhupada (IAST: abhaya-caraṇāravinda bhakti-vedānta svāmī prabhupāda; 1 September 1896 – 14 November 1977) was a Gaudiya Vaishnava spiritual teacher (guru) and the founder preceptor (acharya) of the International Society for Krishna Consciousness (ISKCON), commonly known as the "Hare Krishna Movement". His mission was to propagate Gaudiya Vaishnavism, a school of Vaishnavite Hinduism that had been taught to him by his guru, Bhaktisiddhanta Sarasvati, throughout the world. Born Abhay Charan De in Calcutta, he was educated at the prestigious local Scottish Church College. Before adopting the life of a pious renunciant (vanaprastha) in 1950, he was married with children and owned a small pharmaceutical business.
+</p>
+<p>
+In 1959 he took a vow of renunciation (sannyasa) and started writing commentaries on Vaishnava scriptures. In his later years, as a traveling Vaishnava monk, he became an influential communicator of Gaudiya Vaishnava theology to India and specifically to the West through his leadership of ISKCON, founded in 1966. As the founder of ISKCON, he "emerged as a major figure of the Western counterculture, initiating thousands of young Americans." Despite attacks from anti-cult groups, he received a favorable welcome from many religious scholars, such as J. Stillson Judah, Harvey Cox, Larry Shinn and Thomas Hopkins, who praised Bhaktivedanta Swami's translations and defended the group against distorted media images and misinterpretations. In respect to his achievements, religious leaders from other Gaudiya Vaishnava movements have also given him credit.
+</p>
+<p>
+He has been described as a charismatic leader, in the sense used by sociologist Max Weber, as he was successful in acquiring followers in the United States, Europe, India and elsewhere. After his death in 1977, ISKCON, the society he founded based on a type of Hindu Krishnaism using the Bhagavata Purana as a central scripture, continued to grow and is respected in India, though there have been disputes about leadership among his followers. In February 2014, ISKCON's news agency reported to have reached a milestone of distributing over half a billion books authored by Bhaktivedanta Swami Prabhupada, since 1965.
+</p>
+<a href="http://srikrishnamandir.org/philosophy/srila-prabhupada/">Learn more ...</a><br />
+
+<h3 style="text-align:center;">A Brief Biography of His Divine Grace</h3>
+
+<h4 style="text-align:center;">Childhood in Calcutta</h4>
+<p style="text-align:center;"><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Childhood-250x350.png" alt="" /></p>
+<p style="text-align:center;">On September 01, 1896, the day after Janmashtami (the auspicious appearance day of Lord Sri Krishna) in a little house in the Tollygunge suburb of Calcutta, a male child was born.<br /><a href="http://srikrishnamandir.org/philosophy/srila-prabhupada/childhood-in-calcutta/">Learn more ...</a></p>
+
+<h4 style="text-align:center;">Meeting His Spiritual Master</h4>
+<p style="text-align:center;"><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Initiation-250x350.png" alt="" /></a></p>
+<p style="text-align:center;">Srila Prabhupada became a student of philosophy at the Scottish Churches’ College in 1916. It was a prestigious college. In 1918, when he was in the third year of his college, Gour Mohan De got him married<br /><a href="http://srikrishnamandir.org/philosophy/srila-prabhupada/meeting-his-spiritual-master/">Learn more ...</a></p>
+
+<h4 style="text-align:center;">Broadcasting Krishna</h4>
+<p style="text-align:center;"><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Krishna-Message1.png" alt="" /></p>
+<p style="text-align:center;">After taking initiation from Srila Bhaktisiddhanta Sarasvati Thakura, Srila Prabhupada was contributing to his spiritual master’s mission by donating money as he was doing earlier, but now he wanted to do<br /><a href="http://srikrishnamandir.org/philosophy/srila-prabhupada/broadcasting-krishna/">Learn more ...</a></p>
+
+<h4 style="text-align:center;">Journey to the West</h4>
+<p style="text-align:center;"><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Going-West-250x350.png" alt="" /></p>
+<p style="text-align:center;">A few days before his sixty-ninth birthday, Srila Prabhupada set out for America. He got a free ticket to travel to New York from the proprietor of Scindia Steamship Company, Smt. Sumatee Morarji.<br /><a href="http://srikrishnamandir.org/philosophy/srila-prabhupada/journey-to-the-west/">Learn more ...</a></p>
+<h4 style="text-align:center;">Prophecy Concluded</h4>
+<p style="text-align:center;"><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/6-prabhupada-250x350.jpg" alt="" /></a></p>
+<p style="text-align:center;">After arriving in New York city in September 1965, Srila Prabhupada struggled alone for an year to establish the Krishna Consciousness movement. He lived simply, lectured whenever and wherever<br /><a href="http://srikrishnamandir.org/philosophy/srila-prabhupada/prophecy-concluded/">Learn more ...</a></p>
+<h4 style="text-align:center;">His Divine Books</h4>
+<p style="text-align:center;"><img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/His-Books2-250x350.png" alt="" /></p>
+
+</div>
+
+</div>
+include(`common/footer.html.m4')
