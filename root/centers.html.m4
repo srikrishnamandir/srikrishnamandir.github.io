@@ -33,16 +33,17 @@ include(`contact/lnav.html.m4')
 <h2>India</h2>
 <h3>Andhra Pradesh</strong></h3>
 <p>
-<h4><a href="http://iskm.in/amalapuram">ISKM Amalapuram</a></h4>
-<h4><a href="http://iskm.in/tirupati">ISKM Tirupati</a></h4>
+<ul>
+<li><a href="http://iskm.in/amalapuram">ISKM Amalapuram</a></li>
+<li><a href="http://iskm.in/tirupati">ISKM Tirupati</a></li>
 <h3>Karnataka</h3>
-<h4><a href="http://iskm.in/bengaluru">ISKM Bengaluru</a></h4>
+<li><a href="http://iskm.in/bengaluru">ISKM Bengaluru</a></li>
 <h3>Puducherry</h3>
-<h4><a href="http://iskm.in/puducherry">ISKM Puducherry</a></h4>
+<li><a href="http://iskm.in/puducherry">ISKM Puducherry</a></li>
 <h3>Tamil Nadu</h3>
-<h4><a href="http://iskm.in/chennai">ISKM Chennai</a></h4>
+<li><a href="http://iskm.in/chennai">ISKM Chennai</a></li>
 <h3>Uttar Pradesh</h3>
-<h4><a href="http://iskm.in/vrindavan">ISKM Vrindavan</a></h4>
+<li><a href="http://iskm.in/vrindavan">ISKM Vrindavan</a></li>
 </p>
 
 
