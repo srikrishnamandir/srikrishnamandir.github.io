@@ -1,28 +1,16 @@
 include(`common/header.html.m4')
-<title>International Sri Krishna Mandirs, India</title>
+<title>International Sri Krishna Mandirs of India</title>
 <body>
-
-
 <div id="container">
 
-	<div id="header">
-		<h1>International Sri Krishna Mandirs, India<span></span></h1>
-
-	</div>
-
+  <div id="header">
+  <h1>International Sri Krishna Mandirs, India<span></span></h1>
+  </div>
 	
 include(`common/nav.html.m4')	
 	<div id="wrapper">
 
-
-<div class="fb-login-button" data-show-faces="true" data-width="200" data-max-rows="3"></div>	
-	
-
 <div id="content">
-
-
-<fb:like href="http://http://srikrishnamandir.github.io/" send="true" width="600" show_faces="true"></fb:like>
-<fb:facepile href="http://http://srikrishnamandir.github.io/" size="large" max_rows="1" width="600"></fb:facepile>
 
 <img id="image"/><div id="name"></div>
 
@@ -94,8 +82,6 @@ Timings</b>
 </table>
  <div content="post">
 <div id="rightContent">
-
-Quote of Srila Prabhupada
 
 <!-- saffron #f4c42c ---!>		
 <!-- deep saffron background #ff9933 ---!>

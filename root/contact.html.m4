@@ -1,5 +1,5 @@
 include(`common/header.html.m4')
-<title>International Sri Krishna Mandir, India - Contact</title>
+<title>International Sri Krishna Mandir of India</title>
 <body>
 
 <div id="container">

@@ -1,14 +1,11 @@
 include(`common/header.html.m4')
-<title>International Sri Krishna Mandir, India - Centers</title>
-
+<title>International Sri Krishna Mandirs of India</title>
 <body>
 
 <div id="container">
 
 <div id="header">
 <h1>International Sri Krishna Mandir, India <span>Centers</span></h1>
-
-
 </div>
 
 include(`common/nav.html.m4')	
