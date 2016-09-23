@@ -26,7 +26,7 @@ include(`philosophy/lnav-sampradaya.html.m4')
 <p style="text-align:center;width:100%;float:left;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Swami_Prabhupada.jpg" alt="" />
 </p>
-<p style="text-align:center;width:100%;float:left;">
+<p>
 Abhay Charanaravinda Bhaktivedanta Swami Prabhupada (IAST: abhaya-caraṇāravinda bhakti-vedānta svāmī prabhupāda; 1 September 1896 – 14 November 1977) was a Gaudiya Vaishnava spiritual teacher (guru) and the founder preceptor (acharya) of the International Society for Krishna Consciousness (ISKCON), commonly known as the "Hare Krishna Movement". His mission was to propagate Gaudiya Vaishnavism, a school of Vaishnavite Hinduism that had been taught to him by his guru, Bhaktisiddhanta Sarasvati, throughout the world. Born Abhay Charan De in Calcutta, he was educated at the prestigious local Scottish Church College. Before adopting the life of a pious renunciant (vanaprastha) in 1950, he was married with children and owned a small pharmaceutical business.
 </p>
 <p>
