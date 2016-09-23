@@ -31,19 +31,20 @@ include(`contact/lnav.html.m4')
 
  <div content="post">
 <h2>India</h2>
-<h3>Andhra Pradesh</strong></h3>
 <p>
+Andhra Pradesh<br>
 <ul>
 <li><a href="http://iskm.in/amalapuram">ISKM Amalapuram</a></li>
 <li><a href="http://iskm.in/tirupati">ISKM Tirupati</a></li>
-<h3>Karnataka</h3>
-<li><a href="http://iskm.in/bengaluru">ISKM Bengaluru</a></li>
-<h3>Puducherry</h3>
+Karnataka<br>
+<li>ISKM Bengaluru</li>
+Puducherry<br>
 <li><a href="http://iskm.in/puducherry">ISKM Puducherry</a></li>
-<h3>Tamil Nadu</h3>
-<li><a href="http://iskm.in/chennai">ISKM Chennai</a></li>
-<h3>Uttar Pradesh</h3>
-<li><a href="http://iskm.in/vrindavan">ISKM Vrindavan</a></li>
+<br>Tamil Nadu<br>
+<li>ISKM Chennai</li>
+Uttar Pradesh<br>
+<li>ISKM Vrindavan</li>
+</ul>
 </p>
 
 
