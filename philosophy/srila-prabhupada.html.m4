@@ -1,11 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
-<head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<link rel="stylesheet" href="http://srikrishnamandir.github.io/wp-content/themes/librio/style.css" type="text/css" media="screen" />
-<!--[if IE]><link rel="stylesheet" type="text/css" href="http://srikrishnamandir.github.io/wp-content/themes/librio/ie.css" media="screen" /><![endif]-->
-</head>
-
+include(`common/header.html.m4')
 <title>International Sri Krishna Mandir, India - Trust - Mission and Vision</title>
 <body>
 
@@ -53,25 +46,8 @@
 
 	</div>
 
-<div id="nav">
-  <ul>
-    <li><a href="http://srikrishnamandir.github.io/index.html">Home</a></li>
-    <li><a href="http://srikrishnamandir.github.io/philosophy.html">Philosophy</a></li>
-    <li><a href="http://srikrishnamandir.github.io/centers.html">Centers</a></li>
-  </ul>
-</div>
-	
-<div id="nav">
-  <ul>
-    <li><a href="http://srikrishnamandir.github.io/lord-krishna.html">Lord Krishna</a></li>
-    <li><a href="http://srikrishnamandir.github.io/lord-caitanya.html">Lord Caitanya</a></li>
-    <li><a href="http://srikrishnamandir.github.io/brahma-madhva-gaudiya-sampradya">Brahma-madhva-gaudiya sampradaya</a></li>
-    <li><a href="http://srikrishnamandir.github.io/six-gosvamis.html">Six Gosvamis</a></li>
-    <li><a href="http://srikrishnamandir.github.io/srilaprabhupada.html">Current Acarya</a></li>
-    <li><a href="http://srikrishnamandir.github.io/past-acaryas.html">Past Acaryas</a></li>
-  </ul>
-</div>
-	
+include(`common/nav.html.m4')	
+include(`philosophy/lnav.html.m4')	
 	<div id="wrapper">	
 <body>
 
@@ -122,9 +98,4 @@ You would have understood by now how Krishna possesses all the six opulences in 
 </div>
 
 </div>
-<div id="footer">
- Copyright &copy; 2012-2016. International Sri Krishna Mandirs of India, srikrishnamandir.in, srikrishnamandir.org, iskm.in. All Rights Reserved.
-</div>
-</body>
-</html>
-
+include(`common/footer.html.m4')
