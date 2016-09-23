@@ -22,29 +22,40 @@ include(`philosophy/lnav-sampradaya.html.m4')
 
 <h3>Our Past Acharyas</h3>
 
-<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_JagannathaDas.png" alt="" /><br />
 <h4>Srila Jagannatha Dasa Babaji Maharaja</h4>
-<p>Srila Jagannatha Dasa Babaji Maharaja, a prominent spiritual master coming in the line from Sri Chaitanya Mahaprabhu, was the disciple of Srila Vishwanatha Cakravarti Thakura.<br />
+<p style="text-align:center;width:100%;float:left;">
+<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_Rupa1.png" alt="Parampara_Rupa" />
+</p>
+<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_JagannathaDas.png" alt="" /><br />
+<p style="text-align:center;width:100%;float:left;">
+Srila Jagannatha Dasa Babaji Maharaja, a prominent spiritual master coming in the line from Sri Chaitanya Mahaprabhu, was the disciple of Srila Vishwanatha Cakravarti Thakura.<br />
 <a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-jagannatha-dasa-babaji-maharaja/">Learn more ...</a><br />
 Learn more ...</a><br />
 
-<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_BhaktivinodThakur.png" alt="" /><br />
 <h4>Srila Bhaktivinoda Thakura</h4>
-<p>Srila Bhaktivinoda Thakura, then known as Kedarnatha Datta was born in 1838, in Birnagar (Bengal). He was the third son of Ananda-candra Datta and Jagat-mohini Devi.
+<p style="text-align:center;width:100%;float:left;">
+<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_BhaktivinodThakur.png" alt="" /><br />
+</p>
+<p style="text-align:center;width:100%;float:left;">
+Srila Bhaktivinoda Thakura, then known as Kedarnatha Datta was born in 1838, in Birnagar (Bengal). He was the third son of Ananda-candra Datta and Jagat-mohini Devi.
 <a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-bhaktivinoda-thakura/">Learn more ...</a><br />
 
 
-<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_GauraKishoraDas.png" alt="" /><br />
 <h4>Srila Gaurakishora Dasa Babaji Maharaja</h4>
-<p>Srila Gaurakishora Dasa Babaji was born in 1838. He spent almost thirty years as a householder looking after his wife and family. After his wife died, he gave up his business.<br />
+<p style="text-align:center;width:100%;float:left;">
+<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_GauraKishoraDas.png" alt="" /><br />
+</p>
+<p style="text-align:center;width:100%;float:left;">
+Srila Gaurakishora Dasa Babaji was born in 1838. He spent almost thirty years as a householder looking after his wife and family. After his wife died, he gave up his business.<br />
 <a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-gaurakishora-dasa-babaji-maharaja/">Learn more ...</a><br />
-<h4>Srila Bhaktisiddhanta Sarasvati Thakur</h4>
-<p>Srila Bhaktisiddhanta Sarasvati Thakura Prabhupada was born in 1873 at Jagannatha Puri. His father, Kedar Dutta Bhaktivinoda Thakura, was magistrate of the city.<br />
-<a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-bhaktisiddhanta-sarasvati-thakura/">Learn more ...</a></p>
 
-<h3>The Current Acharya</h3>
-<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_Prabhupada.png" alt="" />
-<p> His Divine Grace A. C. Bhaktivedanta Swami Srila Prabhupada<br />Our respectful obeisances are unto you, O spiritual master, servant of Srila Bhaktisiddhanta Sarasvati Thakura. You are kindly preaching the message of Lord Caitanya and delivering the Western countries, which are filled with impersonalism and voidism.<br /><a href="http://srikrishnamandir.org/philosophy/srila-prabhupada/">Learn more ...</a></p>
+<h4>Srila Bhaktisiddhanta Sarasvati Thakur</h4>
+<p style="text-align:center;width:100%;float:left;">
+<img src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Parampara_BhaktisiddantaSarasvati.png" alt="" /><br />
+</p>
+<p style="text-align:center;width:100%;float:left;">
+Srila Bhaktisiddhanta Sarasvati Thakura Prabhupada was born in 1873 at Jagannatha Puri. His father, Kedar Dutta Bhaktivinoda Thakura, was magistrate of the city.<br />
+<a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-bhaktisiddhanta-sarasvati-thakura/">Learn more ...</a></p>
 
 </div>
 
