@@ -23,9 +23,9 @@ include(`classes/lnav.html.m4')
 
 <p><img class="alignleft" src="http://srikrishnamandir.org/wp-content/uploads/2015/05/Sunday_2-300x199.png" alt="" /></p>
 
-<p>For the benefit of everyone, we conduct free Bhagavad Gita classes at our temple in English. Our classes are based on the book ‘Bhagavad Gita As It Is’, the authentic translation of the sacred Bhagavad Gita from Sanskrit to English by His Divine Grace A. C. Bhaktivedanta Swami Prabhupada.</p>
+<p>For the benefit of everyone, we conduct free Bhagavad Gita classes at all our temples and centers in various languages. Our classes are based on the book ‘Bhagavad Gita As It Is’, the authentic translation of the sacred Bhagavad Gita from Sanskrit to English by His Divine Grace A. C. Bhaktivedanta Swami Prabhupada.</p>
 
-<p>You are required to purchase a copy of the above-mentioned book because, for optimal results, you should couple your attendance at our classes with daily reading of the Bhagavad Gita As It Is. Then your advancement in Bhakti Yoga will be very solid.</p>
+<p>You are requested to purchase a copy of the above-mentioned book because, for optimal results, you should couple your attendance at our classes with daily reading of the Bhagavad Gita As It Is. Then, your advancement in Bhakti Yoga will be very solid.</p>
 
 <p>Bhagavad Gita, being the preliminary study of Bhakti Yoga, is ideal for beginners as it introduces the fundamental concepts of reincarnation, law of karma, meditation, etc. and gradually takes him to the ultimate platform of complete surrender to the Supreme Personality of Godhead, Krsna.</p>
 
@@ -33,7 +33,7 @@ include(`classes/lnav.html.m4')
 
 <p>The schedule of the online Bhagavad Gita classes for India, Bangladesh, Singapore is as follows:</p>
 <ul>
-<li>Tuesdays – 5:30pm to 6:30pm IST(Online)</li>
+<li>Tuesdays – 5:30pm to 6:30pm IST (Online)</li>
 </ul>
 
 </div>
