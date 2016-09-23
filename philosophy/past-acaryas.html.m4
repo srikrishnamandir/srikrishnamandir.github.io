@@ -29,7 +29,6 @@ include(`philosophy/lnav-sampradaya.html.m4')
 <p style="text-align:center;width:100%;float:left;">
 Srila Jagannatha Dasa Babaji Maharaja, a prominent spiritual master coming in the line from Sri Chaitanya Mahaprabhu, was the disciple of Srila Vishwanatha Cakravarti Thakura.<br />
 <a href="http://srikrishnamandir.org/philosophy/our-sampradaya/srila-jagannatha-dasa-babaji-maharaja/">Learn more ...</a><br />
-Learn more ...</a><br />
 
 <h4>Srila Bhaktivinoda Thakura</h4>
 <p style="text-align:center;width:100%;float:left;">
