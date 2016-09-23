@@ -34,7 +34,7 @@ media: root/media.html.m4
 	m4 root/media.html.m4 > media.html
 news: root/news.html.m4
 	m4 root/news.html.m4 > news.html
-philosophy: root/philosophy.html.m4 lord-krishna lord-caitanya sampradaya srilaprabhupada brahma-madhva-gaudiya-sampradaya six-gosvamis past-acaryas 
+philosophy: root/philosophy.html.m4 lord-krishna lord-caitanya sampradaya srila-prabhupada brahma-madhva-gaudiya-sampradaya six-gosvamis past-acaryas 
 	m4 root/philosophy.html.m4 > /dev/null; echo philosophy.html
 lord-krishna:
 	m4 philosophy/lord-krishna.html.m4 > lord-krishna.html
@@ -49,8 +49,8 @@ six-gosvamis:
 	m4 philosophy/six-gosvamis.html.m4 > six-gosvamis.html
 past-acaryas:
 	m4 philosophy/past-acaryas.html.m4 > past-acaryas.html
-srilaprabhupada:
-	m4 philosophy/srilaprabhupada.html.m4 > srilaprabhupada.html
+srila-prabhupada:
+	m4 philosophy/srila-prabhupada.html.m4 > srila-prabhupada.html
 trust: root/trust.html.m4
 	m4 root/trust.html.m4 > trust.html
 volunteer: root/volunteer.html.m4
