@@ -20,7 +20,7 @@ include(`philosophy/lnav-sampradaya.html.m4')
 <div id="content">
 <div class="post">
 
-<h3>Our Current and Final Acaryas</h3>
+<h3>Our Current Acarya</h3>
 
 <h4>Srila Prabhupada</h4>
 <p style="text-align:center;width:100%;float:left;">
