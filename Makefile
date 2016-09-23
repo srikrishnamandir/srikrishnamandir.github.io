@@ -1,4 +1,4 @@
-all: root centers
+all: root centers classes
 
 centers: amalapuram bengaluru chennai puducherry tirupati vrindavan
 
@@ -54,3 +54,10 @@ trust: root/trust.html.m4
 	m4 root/trust.html.m4 > trust.html
 volunteer: root/volunteer.html.m4
 	m4 root/volunteer.html.m4 > volunteer.html
+
+
+classes: bhagavad-gita-classes
+
+bhagavad-gita-classes: 
+	m4 classes/bhagavad-gita-classes.html.m4 > bhagavad-gita-classes.html
+	m4 classes/bhagavad-gita-classes.html.m4 > classes.html
