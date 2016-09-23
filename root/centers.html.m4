@@ -19,6 +19,7 @@ include(`contact/lnav.html.m4')
 
  <div content="post">
 <h2>India</h2>
+<img src="http://iskm.in/i/india1.jpg" alt="">
 <p>
 <b>Andhra Pradesh</b><br>
 <ul>
