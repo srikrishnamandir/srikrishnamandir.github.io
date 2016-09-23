@@ -56,8 +56,10 @@ volunteer: root/volunteer.html.m4
 	m4 root/volunteer.html.m4 > volunteer.html
 
 
-classes: bhagavad-gita-classes
+classes: bhagavad-gita-classes srimad-bhagavatam-classes
 
 bhagavad-gita-classes: 
 	m4 classes/bhagavad-gita-classes.html.m4 > bhagavad-gita-classes.html
 	m4 classes/bhagavad-gita-classes.html.m4 > classes.html
+srimad-bhagavatam-classes: 
+	m4 classes/srimad-bhagavatam-classes.html.m4 > srimad-bhagavatam-classes.html
