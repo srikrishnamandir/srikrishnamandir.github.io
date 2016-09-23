@@ -34,12 +34,12 @@ media: root/media.html.m4
 	m4 root/media.html.m4 > media.html
 news: root/news.html.m4
 	m4 root/news.html.m4 > news.html
-philosophy: root/philosophy.html.m4 lord-krishna lord-caitanya sampradaya srila-prabhupada brahma-madhva-gaudiya-sampradaya six-gosvamis past-acaryas 
+philosophy: root/philosophy.html.m4 lord-krishna caitanya-mahaprabhu sampradaya srila-prabhupada brahma-madhva-gaudiya-sampradaya six-gosvamis past-acaryas 
 	m4 root/philosophy.html.m4 > philosophy.html
 lord-krishna:
 	m4 philosophy/lord-krishna.html.m4 > lord-krishna.html
-lord-caitanya:
-	m4 philosophy/lord-caitanya.html.m4 > lord-caitanya.html
+caitanya-mahaprabhu:
+	m4 philosophy/caitanya-mahaprabhu.html.m4 > caitanya-mahaprabhu.html
 sampradaya:
 	m4 philosophy/sampradaya.html.m4 > sampradaya.html
 brahma-madhva-gaudiya-sampradaya:
