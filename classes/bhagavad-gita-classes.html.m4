@@ -14,7 +14,6 @@ include(`common/header.html.m4')
 
 include(`common/nav.html.m4')	
 include(`philosophy/lnav.html.m4')	
-include(`philosophy/lnav-sampradaya.html.m4')	
 	<div id="wrapper">	
 <body>
 <div id="content">
