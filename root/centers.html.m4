@@ -28,27 +28,9 @@ include(`contact/lnav.html.m4')
 </ul>
 </p>
 <p>
-<b>Karnataka</b><br>
-<ul>
-<li><a href="http://iskm.in/tirupati">ISKM Bengaluru</a></li>
-</ul>
-</p>
-<p>
 <b>Puducherry</b><br>
 <ul>
 <li><a href="http://iskm.in/puducherry">ISKM Puducherry</a></li>
-</ul>
-</p>
-<p>
-<b>Tamil Nadu</b><br>
-<ul>
-<li><a href="http://iskm.in/chennai">ISKM Chennai</a></li>
-</ul>
-</p>
-<p>
-<b>Uttar Pradesh</b><br>
-<ul>
-<li><a href="http://iskm.in/vrindavan">ISKM Vrindavan</a></li>
 </ul>
 </p>
 
