@@ -26,7 +26,7 @@ include(`contact/lnav.html.m4')
 <h3>International Sri Krishna Mandir, Amalapuram</strong></h3>
 <p>
 <h4>website: iskm.in/amalapuram</h4>
-<h4>email: amalapuram at srikrishnamandir dot in</h4>
+<h4>email: amalapuram at iskm dot in</h4>
 
 <p>
 <TABLE 

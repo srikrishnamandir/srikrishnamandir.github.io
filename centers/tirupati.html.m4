@@ -26,7 +26,7 @@ include(`contact/lnav.html.m4')
 <h3>International Sri Krishna Mandir, Tirupati</strong></h3>
 <p>
 <h4 color="#ff00ff">website: iskm.in/tirupati</h4>
-<h4>email: tirupati at srikrishnamandir dot in</h4>
+<h4>email: tirupati at iskm dot in</h4>
 
 <p>
 <TABLE 
