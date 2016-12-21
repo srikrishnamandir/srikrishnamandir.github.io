@@ -31,7 +31,8 @@ include(`contact/lnav.html.m4')
 <h3>International Sri Krishna Mandir, Chennai</strong></h3>
 <p>
 <h4>website: iskm.in/chennai</h4>
-<h4>email: chennai at iskm dot in</h4>
+<h4>phone: +91-9444529289</h4>
+<h4>contact: Dinesh</h4>
 
 <p>
 <TABLE 
@@ -57,6 +58,7 @@ include(`contact/lnav.html.m4')
 <tr>
 <td>
    <b> Address: </b> <br>
+   Project Office, 
    International Sri Krishna Mandir, Chennai <br>
    38/24, Damodaramurthy Rd, <br>
    Kilpauk, <br> 
