@@ -27,10 +27,18 @@ include(`contact/lnav.html.m4')
 <li><a href="http://iskm.in/tirupati">ISKM Tirupati</a></li>
 </ul>
 </p>
+
 <p>
 <b>Puducherry</b><br>
 <ul>
 <li><a href="http://iskm.in/puducherry">ISKM Puducherry</a></li>
+</ul>
+</p>
+
+<p>
+<b>Tamil Nadu</b><br>
+<ul>
+<li><a href="http://iskm.in/chennai">ISKM Chennai</a></li>
 </ul>
 </p>
 
