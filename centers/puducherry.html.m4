@@ -26,7 +26,8 @@ include(`contact/lnav.html.m4')
 <h3>International Sri Krishna Mandir, Puducherry</strong></h3>
 <p>
 <h4>website: <a href="http://srikrishnamandirpondy.org">srikrishnamandirpondy.org</a></h4>
-<h4>email: puducherry at iskm in </h4>
+<h4>email: skm.pondy at gmail dot com </h4>
+<h4>phone: +91-8056513859 , +91 9952686108 </h4>
 
 <p>
 <TABLE 
