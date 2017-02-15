@@ -53,11 +53,9 @@ include(`contact/lnav.html.m4')
 <td>
    <b> Address: </b> <br>
    International Sri Krishna Mandir, Puducherry <br>
-   2, Mariamman Koil St, <br>
-   Opp. Rajaji Nagar Bus Stop, <br>
-   Kottupalayam, <br>
-   Lawspet, <br> 
-   Puducherry - 560008 <br>
+   32, 5th Cross, <br>
+   Jawahar Nagar, <br>
+   Puducherry - 605005 <br>
    India <br>
    <br>
 </td>
