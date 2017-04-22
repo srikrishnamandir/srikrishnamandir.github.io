@@ -19,7 +19,7 @@ include(`contact/lnav.html.m4')
 
  <div content="post">
 <h2>India</h2>
-<img src="http://iskm.in/i/india1.jpg" alt="">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=11xYMw1V72_jTfTx5L2FLcIwGwyY" width="640" height="480"></iframe> 
 <p>
 <b>Andhra Pradesh</b><br>
 <ul>
@@ -36,54 +36,10 @@ include(`contact/lnav.html.m4')
 </p>
 
 <p>
-<b>Tamil Nadu</b><br>
+<b>Karnataka</b><br>
 <ul>
-<li><a href="http://iskm.in/chennai">ISKM Chennai</a></li>
+<li><a href="http://iskm.in/bengaluru">ISKM Bengaluru</a></li>
 </ul>
-</p>
-
-<h2>Bangladesh</h2>
-<p>
-<h4>ISKM Bangladesh Mymensingh</h4>
-</p>
-
-
-<h2>China</h2>
-<p>
-<h4>ISKM Guandong</a></h4>
-</p>
-
-<h2>Malaysia</h2>
-<p>
-<h4><a href="http://facebook.com/skm.mgd">ISKM Malaysia Kota Tinggi</a></h4>
-<h4>ISKM Malaysia Klang</h4>
-<h4>ISKM Malaysia Seramban</h4>
-</p>
-
-<h2>Philippines</h2>
-<p>
-<h4><a href="http://facebook.com/skm.phil"> ISKM Philippines Manila</a></h4>
-</div>
-
-<h2>Singapore</h2>
-<p>
-<h4><a href="http://srikrishnamandir.org"> ISKM Singapore</a></h4>
-<h4><a href="http://srikrishnamandir.org"> ISKM Singapore Tuas</a></h4>
-</p>
-
-<h2>Australia</h2>
-<p>
-<h4><a href="http://iskm.au/cairns"> ISKM Cairns</a></h4>
-</p>
-
-<h2>New Zealand</h2>
-<p>
-<h4><a href="http://harekrishnasociety.co.nz"> ISKM Nelson</a></h4>
-</p>
-
-<h2>Russia</h2>
-<p>
-<h4>ISKM Russia</a></h4>
 </p>
 
 </div>
