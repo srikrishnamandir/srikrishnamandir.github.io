@@ -1,7 +1,7 @@
 all: root centers classes
 
-centers: amalapuram bengaluru chennai puducherry tirupati vrindavan
-
+centers: amalapuram bengaluru chennai puducherry tirupati vrindavan root/centers.html.m4
+	m4 root/centers.html.m4 > centers.html
 amalapuram: centers/amalapuram.html.m4 
 	m4  centers/amalapuram.html.m4  > amalapuram.html
 bengaluru:  centers/bengaluru.html.m4
@@ -17,8 +17,6 @@ vrindavan:  centers/vrindavan.html.m4
 
 root: centers contact donate index media news philosophy trust volunteer 
 
-centers: root/centers.html.m4
-	m4 root/centers.html.m4 > centers.html
 contact: root/contact.html.m4
 	m4 root/contact.html.m4 > contact.html
 donate: root/donate.html.m4
