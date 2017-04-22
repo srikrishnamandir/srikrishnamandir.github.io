@@ -11,7 +11,7 @@ include(`common/header.html.m4')
 <div id="container">
 
 <div id="header">
-<h1>International Sri Krishna Mandir, Chennai<span>Contact</span></h1>
+<h1>International Sri Krishna Mandir, Digital<span>Contact</span></h1>
 
 
 </div>
@@ -28,14 +28,10 @@ include(`contact/lnav.html.m4')
  <div content="post">
   <h2>Contact Us</h2>
 
-<h3>International Sri Krishna Mandir, Chennai</strong></h3>
+<h3>International Sri Krishna Mandir, Digital</strong></h3>
 <p>
 <h4>website: iskm.in/chennai</h4>
-<h4>phone: +91-9444529289</h4>
-<h4>contact: Dinesh</h4>
 <h4>calendar: <a href="/chennai/calendar.txt">text</a> <a href="/chennai/calendar.pdf">pdf</a></h4>
-
-<embed src="/chennai/calendar.pdf" width="800px"/>
 
 <p>
 <TABLE 
@@ -61,8 +57,8 @@ include(`contact/lnav.html.m4')
 <tr>
 <td>
    <b> Address: </b> <br>
-   Project Office, 
-   International Sri Krishna Mandir, Chennai <br>
+   Digital Services,
+   International Sri Krishna Mandir, <br>
    38/24, Damodaramurthy Rd, <br>
    Kilpauk, <br> 
    Chennai - 600010, <br>
