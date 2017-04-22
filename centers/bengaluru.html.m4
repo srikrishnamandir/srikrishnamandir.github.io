@@ -54,10 +54,11 @@ include(`contact/lnav.html.m4')
 <td>
    <b> Address: </b> <br>
    International Sri Krishna Mandir, Bengaluru <br>
-   Avalahalli Village, <br>
-   Doddaballapura Main Rd, <br>
-   Yelahanka, <br>
-   Bengaluru - 560094, <br>
+   7th Cross Rd, <br>
+   Bovipalya, <br>
+   Nagapura, <br>
+   Bengaluru - 560086, <br>
+   Karnataka, <br>
    India <br>
    <br>
 </td>
