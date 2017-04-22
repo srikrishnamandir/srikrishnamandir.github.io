@@ -55,7 +55,7 @@ include(`contact/lnav.html.m4')
 <td>
    <b> Address: </b> <br>
    International Sri Krishna Mandir, Puducherry <br>
-   32, 5th Cross, <br>
+   37, 5th Cross, <br>
    Jawahar Nagar, <br>
    Puducherry - 605005 <br>
    India <br>
