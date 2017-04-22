@@ -27,7 +27,7 @@ include(`contact/lnav.html.m4')
 <p>
 <h4>website: iskm.in/amalapuram</h4>
 <h4>email: amalapuram at iskm dot in</h4>
-<h4>calendar: <a href="iskm.in/amalapuram/calendar.txt">text</a> <a href="iskm.in/amalapuram/calendar.pdf">pdf</a></h4>
+<h4>calendar: <a href="/amalapuram/calendar.txt">text</a> <a href="iskm.in/amalapuram/calendar.pdf">pdf</a></h4>
 
 
 <p>

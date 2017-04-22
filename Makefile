@@ -2,7 +2,7 @@ all: root centers classes
 
 centers: amalapuram bengaluru chennai puducherry tirupati vrindavan
 
-amalapuram:
+amalapuram: centers/amalapuram.html.m4 
 	m4 centers/amalapuram.html.m4 > amalapuram.html
 
 tirupati:
