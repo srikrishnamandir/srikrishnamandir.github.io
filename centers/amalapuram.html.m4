@@ -29,7 +29,8 @@ include(`contact/lnav.html.m4')
 <h4>email: sundarsdas.skm at gmail dot com</h4>
 <h4>calendar: <a href="/amalapuram/calendar.txt">text</a> <a href="/amalapuram/calendar.pdf">pdf</a></h4>
 
-<iframe width="600" src="https://www.youtube.com/embed/CLgZoKSVJnI" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" src="https://www.youtube.com/embed/CLgZoKSVJnI" frameborder="0" allowfullscreen></iframe>
+<iframe width="300" src="https://www.youtube.com/embed/nH9Weet0nvU" frameborder="0" allowfullscreen></iframe>
 
 
 <p>
