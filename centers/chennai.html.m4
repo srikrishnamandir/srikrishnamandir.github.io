@@ -33,6 +33,7 @@ include(`contact/lnav.html.m4')
 <h4>website: iskm.in/chennai</h4>
 <h4>phone: +91-9444529289</h4>
 <h4>contact: Dinesh</h4>
+<h4>calendar: <a href="/chennai/calendar.txt">text</a> <a href="/chennai/calendar.pdf">pdf</a></h4>
 
 <p>
 <TABLE 
