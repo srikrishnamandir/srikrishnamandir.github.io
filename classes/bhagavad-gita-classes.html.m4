@@ -36,6 +36,7 @@ include(`classes/lnav.html.m4')
 <li>Tuesdays – 5:30pm to 6:30pm IST (Online)</li>
 </ul>
 
+<iframe width="600" height="400" src="https://www.youtube.com/embed/HPVUHkDFrQo?list=PLQGHF3mp1o786nY-6YYiCjPUPqgYOnjIm" frameborder="0" allowfullscreen></iframe>
 </div>
 
 </div>
