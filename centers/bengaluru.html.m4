@@ -26,7 +26,7 @@ include(`contact/lnav.html.m4')
 <h3>International Sri Krishna Mandir, Bengaluru</strong></h3>
 <p>
 <h4>website: iskm.in/bengaluru</h4>
-<h4>email: bengaluru at srikrishnamandir dot in</h4>
+<h4>email: sanatandas1 at yahoo dot com</h4>
 <h4>calendar: <a href="/bengaluru/calendar.txt">text</a> <a href="/bengaluru/calendar.pdf">pdf</a></h4>
 
 <p>
