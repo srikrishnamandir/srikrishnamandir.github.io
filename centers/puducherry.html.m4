@@ -30,6 +30,8 @@ include(`contact/lnav.html.m4')
 <h4>phone: +91-8056513859 , +91 9952686108 </h4>
 <h4>calendar: <a href="/puducherry/calendar.txt">text</a> <a href="/puducherry/calendar.pdf">pdf</a></h4>
 
+<iframe width="600" src="https://www.youtube.com/embed/HPCL4wGHy4k" frameborder="0" allowfullscreen></iframe>
+
 <p>
 <TABLE 
   WIDTH="90%" 
