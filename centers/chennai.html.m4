@@ -35,6 +35,8 @@ include(`contact/lnav.html.m4')
 <h4>contact: Dinesh</h4>
 <h4>calendar: <a href="/chennai/calendar.txt">text</a> <a href="/chennai/calendar.pdf">pdf</a></h4>
 
+<embed src="/chennai/calendar.pdf" width="800px"/>
+
 <p>
 <TABLE 
   WIDTH="90%" 
