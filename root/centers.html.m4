@@ -27,21 +27,12 @@ include(`contact/lnav.html.m4')
 <li><a href="http://iskm.in/chowdepalle">ISKM Chowdepalle</a></li>
 </ul>
 </p>
-
 <p>
 <b>Puducherry</b><br>
 <ul>
 <li><a href="http://iskm.in/puducherry">ISKM Puducherry</a></li>
 </ul>
 </p>
-
-<p>
-<b>Karnataka</b><br>
-<ul>
-<li><a href="http://iskm.in/bengaluru">ISKM Bengaluru</a></li>
-</ul>
-</p>
-
 </div>
 </div>
 include(`common/footer.html.m4')
