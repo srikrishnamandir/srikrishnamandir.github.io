@@ -24,7 +24,7 @@ include(`contact/lnav.html.m4')
 <b>Andhra Pradesh</b><br>
 <ul>
 <li><a href="http://iskm.in/amalapuram">ISKM Amalapuram</a></li>
-<li><a href="http://iskm.in/tirupati">ISKM Tirupati</a></li>
+<li><a href="http://iskm.in/Chowdepalle">ISKM Chowdepalle</a></li>
 </ul>
 </p>
 

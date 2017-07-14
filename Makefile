@@ -1,13 +1,13 @@
 all: root centers classes
 
-centers: amalapuram bengaluru chennai puducherry tirupati vrindavan root/centers.html.m4
+centers: amalapuram bengaluru chennai puducherry chowdepalle vrindavan root/centers.html.m4
 	m4 root/centers.html.m4 > centers.html
 amalapuram: centers/amalapuram.html.m4 
 	m4  centers/amalapuram.html.m4  > amalapuram.html
 bengaluru:  centers/bengaluru.html.m4
 	m4  centers/bengaluru.html.m4   > bengaluru.html
-tirupati:   centers/tirupati.html.m4
-	m4  centers/tirupati.html.m4    > tirupati.html
+chowdepalle:   centers/chowdepalle.html.m4
+	m4  centers/chowdepalle.html.m4    > chowdepalle.html
 puducherry: centers/puducherry.html.m4
 	m4  centers/puducherry.html.m4  > puducherry.html
 chennai:    centers/chennai.html.m4

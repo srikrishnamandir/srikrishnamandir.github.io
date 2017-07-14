@@ -1,12 +1,12 @@
 include(`common/header.html.m4')
-<title>International Sri Krishna Mandir, Tirupati - Contact</title>
+<title>International Sri Krishna Mandir, Chowdepalle - Contact</title>
 
 <body>
 
 <div id="container">
 
 <div id="header">
-<h1>International Sri Krishna Mandir, Tirupati<span>Contact</span></h1>
+<h1>International Sri Krishna Mandir, Chowdepalle<span>Contact</span></h1>
 
 
 </div>
@@ -23,7 +23,7 @@ include(`contact/lnav.html.m4')
  <div content="post">
   <h2>Contact Us</h2>
 
-<h3>International Sri Krishna Mandir, Tirupati</strong></h3>
+<h3>International Sri Krishna Mandir, Chowdepalle</strong></h3>
 <p>
 <h4 color="#ff00ff">website: iskm.in/tirupati</h4>
 <h4>email: srisrinct at gmail dot com</h4>
@@ -53,7 +53,7 @@ include(`contact/lnav.html.m4')
 <tr>
 <td>
    <b> Address: </b> <br>
-   International Sri Krishna Mandir, Tirupati <br>
+   International Sri Krishna Mandir, Chowdepalle <br>
    9/43, Upparapalli Post, <br>
    Somala Mandalam, <br>
    Chitoor District, <br> 
